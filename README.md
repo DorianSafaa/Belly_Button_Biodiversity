@@ -14,7 +14,7 @@ The dashboard includes:
 
 -Gauge of the frequency of belly button washes weekly for each individual
 
-http://127.0.0.1:5500/index.html
+https://doriansafaa.github.io/Belly_Button_Biodiversity/
 
 ![Index_screenshot](https://user-images.githubusercontent.com/66279829/166140707-b53ee027-bb47-4d75-8d20-6f8085b8fbc3.jpg)
 
